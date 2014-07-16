@@ -10,7 +10,7 @@ _Updated July 2014_
 
 A dataset containing these attributes powers the 311 App.  While several fields are optional, they greatly improve the user experience for both citizen users and administrators.  
 
-An example can be found here.  
+An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-App-Data/kdi4-pasu).  
 
 | Attribute                             | API Field                       | Type        | Required | Role within app                     |
 | ---                                   | ---                             | ---         | ---      | ---                                 |
@@ -34,7 +34,7 @@ An example can be found here.
 
 Sometimes issue categories don't have citizen-friendly names.  If a publisher wishes to present a given issue category with a friendlier name, they can optionally populate a dataset, with the fields below, and the app will display alternative names within the user interface.  
 
-An example can be found here.  
+An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-Category-Names/n4pj-tfiu).  
 
 | Attribute                       | API Field                | Type       | Required | Role within app                                                   |
 | ---                             | ---                      | ---        | ---      | ---                                                               |
