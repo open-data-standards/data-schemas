@@ -8,7 +8,7 @@ _Updated July 2014_
 
 ## Data Attributes
 
-A dataset containing these attributes powers the 311 App.  While several fields are optional, they greatly improve the user experience for both citizen users and administrators.  
+A dataset containing these attributes powers the Service Connect app.  While several fields are optional, they greatly improve the user experience for both citizen users and administrators.  
 
 An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-App-Data/kdi4-pasu).  
 
