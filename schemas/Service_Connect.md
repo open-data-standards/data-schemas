@@ -44,4 +44,4 @@ An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-
 
 ## Neighborhood / District Geospatial Data
 
-The 311 App requires a Shapefile that corresponds to the `neighborhood_district` field.
+The Service Connect App requires a Shapefile that corresponds to the `neighborhood_district` field.
