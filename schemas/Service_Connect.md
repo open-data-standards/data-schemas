@@ -30,6 +30,9 @@ An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-
 | Image                                 | `image`                         | URL         | No       | User-facing context                 |
 | Location                              | `location`                      | Location    | Yes      | Mapping                             |
 
+
+* `Open` and `Closed` in proper case are the only valid entries for the `ticket_status` column.  
+
 ## Optional Category Mapping
 
 Sometimes issue categories don't have citizen-friendly names.  If a publisher wishes to present a given issue category with a friendlier name, they can optionally populate a dataset, with the fields below, and the app will display alternative names within the user interface.  
