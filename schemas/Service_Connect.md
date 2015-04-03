@@ -27,7 +27,7 @@ An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-
 | Ticket Created Date / Time            | `ticket_created_date_time`         | Date & Time | Yes      | Filtering, charting                 |
 | Ticket Last Updated Date / Time       | `ticket_last_updated_date_time`    | Date & Time | No       | Filtering, charting                 |
 | Ticket Closed Date / Time             | `ticket_closed_date_time`          | Date & Time | Yes      | Filtering, charting                 |
-| Ticket Status                         | `ticket_status`                    | Plain Text  | Yes      | Filtering, charting                 |
+| Ticket Status                         | `ticket_status`                    | Plain Text  | Yes (Must be Open or Closed)     | Filtering, charting                 |
 | Image                                 | `image`                            | URL         | No       | User-facing context                 |
 | Location                              | `location`                         | Location    | Yes      | Mapping                             |
 
