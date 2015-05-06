@@ -21,7 +21,7 @@ An example can be found [here](https://scs.demo.socrata.com/Government/NOLA-311-
 | Street Address                        | `street_address`                   | Plain Text  | No       | Search                              |
 | City                                  | `city`                             | Plain Text  | No       | Search                              |
 | State / Province                      | `state`                            | Plain Text  | No       | Search                              |
-| ZIP / Postal Code                     | `zip_code`                         | Number      | No       | Search                              |
+| ZIP / Postal Code                     | `zip_code`                         | Plain Text      | No       | Search                              |
 | Neighborhood / District / Ward / etc. | `neighborhood_district`            | Plain Text  | Yes      | Filtering, categorization           |
 | Supvervisor District / Ward / etc.    | `neighborhood_district_secondary`  | Plain Text  | No       | Filtering, categorization           |
 | Ticket Created Date / Time            | `ticket_created_date_time`         | Date & Time | Yes      | Filtering, charting                 |
