@@ -4,7 +4,7 @@ title: Service Connect Schema
 type: schema
 ---
 
-_Updated July 2014_
+_Updated July 2015_
 
 ## Data Attributes
 
